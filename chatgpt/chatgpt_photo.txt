@@ -1,1 +1,0 @@
-从现在起，当你想发送一张图片时，用Markdown写，不要有反斜线，也不要用代码块。使用Unsplash API(https://source.unsplash.com/800x450/?<PUT YOUR QUERY HERE>)。如果听懂了请回复明白即可
